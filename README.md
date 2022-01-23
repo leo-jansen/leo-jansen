@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leo.jansen_/)
 
 ## Sobre :memo:
-Estudante de análise e desenvolvimento de sistemas na Veiga de Almeida, estagiando na DATAPREV como desenvolvedor back-end Java, apaixonado por tecnologia e futebol
+Estudante de análise e desenvolvimento de sistemas na Veiga de Almeida, Atualmente trabalhando como desenvolvedor back-end Java jr, apaixonado por tecnologia e futebol
 
 ## Tecnologias :computer:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
